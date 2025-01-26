@@ -9,7 +9,7 @@ services:
     autoDeploy: false
     runtime: ruby
     name: maybe
-    repo: https://github.com/maybe-finance/maybe.git
+    repo: https://github.com/iremkorkmaz/maybe.git
     branch: main
     healthCheckPath: /up
     buildCommand: "./bin/render-build.sh"
