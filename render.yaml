@@ -5,7 +5,7 @@ databases:
 
 services:
   - type: web
-    plan: Professional
+    plan: Pro
     autoDeploy: false
     runtime: ruby
     name: maybe
